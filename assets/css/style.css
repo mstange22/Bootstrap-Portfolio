@@ -250,18 +250,9 @@ input[type=text]:hover {
 	.row.image-row {
 		margin-bottom: 20px;
 	}
-
-/*	.portfolio-image {
-		width: 100%;
-	}
-
-	.box {
-		width: 100%;*/
-	}
 }
 
-
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
 
 	.navbar {
 		background-color: #4aaaa5;
